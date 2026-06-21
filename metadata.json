@@ -1,0 +1,6 @@
+{
+  "name": "Smart Production & Manpower Allocation",
+  "description": "Shift production data logger, downtime tracking, OEE dashboard, and automated skill-based manpower allocator for pump manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
